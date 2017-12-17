@@ -1,0 +1,10 @@
+C:\Users\Harmonic\Desktop\CST 117\My first project\My first project\bin\Debug\My first project.exe.config
+C:\Users\Harmonic\Desktop\CST 117\My first project\My first project\bin\Debug\My first project.exe
+C:\Users\Harmonic\Desktop\CST 117\My first project\My first project\bin\Debug\My first project.pdb
+C:\Users\Harmonic\Desktop\CST 117\My first project\My first project\obj\Debug\My first project.csprojResolveAssemblyReference.cache
+C:\Users\Harmonic\Desktop\CST 117\My first project\My first project\obj\Debug\My_first_project.Form1.resources
+C:\Users\Harmonic\Desktop\CST 117\My first project\My first project\obj\Debug\My_first_project.Properties.Resources.resources
+C:\Users\Harmonic\Desktop\CST 117\My first project\My first project\obj\Debug\My first project.csproj.GenerateResource.Cache
+C:\Users\Harmonic\Desktop\CST 117\My first project\My first project\obj\Debug\My first project.csproj.CoreCompileInputs.cache
+C:\Users\Harmonic\Desktop\CST 117\My first project\My first project\obj\Debug\My first project.exe
+C:\Users\Harmonic\Desktop\CST 117\My first project\My first project\obj\Debug\My first project.pdb
