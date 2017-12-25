@@ -1,0 +1,10 @@
+C:\Users\Harmonic\Desktop\CST 117\Programproject2\Programproject2\obj\Debug\Programproject2.csprojResolveAssemblyReference.cache
+C:\Users\Harmonic\Desktop\CST 117\Programproject2\Programproject2\obj\Debug\Programproject2.Form1.resources
+C:\Users\Harmonic\Desktop\CST 117\Programproject2\Programproject2\obj\Debug\Programproject2.csproj.GenerateResource.Cache
+C:\Users\Harmonic\Desktop\CST 117\Programproject2\Programproject2\bin\Debug\Programproject2.exe.config
+C:\Users\Harmonic\Desktop\CST 117\Programproject2\Programproject2\bin\Debug\Programproject2.exe
+C:\Users\Harmonic\Desktop\CST 117\Programproject2\Programproject2\bin\Debug\Programproject2.pdb
+C:\Users\Harmonic\Desktop\CST 117\Programproject2\Programproject2\obj\Debug\Programproject2.Properties.Resources.resources
+C:\Users\Harmonic\Desktop\CST 117\Programproject2\Programproject2\obj\Debug\Programproject2.csproj.CoreCompileInputs.cache
+C:\Users\Harmonic\Desktop\CST 117\Programproject2\Programproject2\obj\Debug\Programproject2.exe
+C:\Users\Harmonic\Desktop\CST 117\Programproject2\Programproject2\obj\Debug\Programproject2.pdb
