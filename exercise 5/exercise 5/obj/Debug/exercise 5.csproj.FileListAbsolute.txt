@@ -1,0 +1,10 @@
+C:\Users\Harmonic\Desktop\CST 117\exercise 5\exercise 5\obj\Debug\exercise 5.csprojResolveAssemblyReference.cache
+C:\Users\Harmonic\Desktop\CST 117\exercise 5\exercise 5\obj\Debug\exercise_5.Form1.resources
+C:\Users\Harmonic\Desktop\CST 117\exercise 5\exercise 5\obj\Debug\exercise_5.Properties.Resources.resources
+C:\Users\Harmonic\Desktop\CST 117\exercise 5\exercise 5\obj\Debug\exercise 5.csproj.GenerateResource.Cache
+C:\Users\Harmonic\Desktop\CST 117\exercise 5\exercise 5\obj\Debug\exercise 5.csproj.CoreCompileInputs.cache
+C:\Users\Harmonic\Desktop\CST 117\exercise 5\exercise 5\bin\Debug\exercise 5.exe.config
+C:\Users\Harmonic\Desktop\CST 117\exercise 5\exercise 5\bin\Debug\exercise 5.exe
+C:\Users\Harmonic\Desktop\CST 117\exercise 5\exercise 5\bin\Debug\exercise 5.pdb
+C:\Users\Harmonic\Desktop\CST 117\exercise 5\exercise 5\obj\Debug\exercise 5.exe
+C:\Users\Harmonic\Desktop\CST 117\exercise 5\exercise 5\obj\Debug\exercise 5.pdb
