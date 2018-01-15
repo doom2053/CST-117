@@ -1,0 +1,10 @@
+C:\Users\Harmonic\Desktop\CST 117\ProgrammingExercise3\ProgrammingExercise3\bin\Debug\ProgrammingExercise3.exe.config
+C:\Users\Harmonic\Desktop\CST 117\ProgrammingExercise3\ProgrammingExercise3\bin\Debug\ProgrammingExercise3.exe
+C:\Users\Harmonic\Desktop\CST 117\ProgrammingExercise3\ProgrammingExercise3\bin\Debug\ProgrammingExercise3.pdb
+C:\Users\Harmonic\Desktop\CST 117\ProgrammingExercise3\ProgrammingExercise3\obj\Debug\ProgrammingExercise3.csprojResolveAssemblyReference.cache
+C:\Users\Harmonic\Desktop\CST 117\ProgrammingExercise3\ProgrammingExercise3\obj\Debug\ProgrammingExercise3.Form1.resources
+C:\Users\Harmonic\Desktop\CST 117\ProgrammingExercise3\ProgrammingExercise3\obj\Debug\ProgrammingExercise3.Properties.Resources.resources
+C:\Users\Harmonic\Desktop\CST 117\ProgrammingExercise3\ProgrammingExercise3\obj\Debug\ProgrammingExercise3.csproj.GenerateResource.Cache
+C:\Users\Harmonic\Desktop\CST 117\ProgrammingExercise3\ProgrammingExercise3\obj\Debug\ProgrammingExercise3.csproj.CoreCompileInputs.cache
+C:\Users\Harmonic\Desktop\CST 117\ProgrammingExercise3\ProgrammingExercise3\obj\Debug\ProgrammingExercise3.exe
+C:\Users\Harmonic\Desktop\CST 117\ProgrammingExercise3\ProgrammingExercise3\obj\Debug\ProgrammingExercise3.pdb
