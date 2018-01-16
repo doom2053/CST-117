@@ -1,0 +1,7 @@
+C:\Users\Harmonic\Desktop\CST 117\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Harmonic\Desktop\CST 117\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Harmonic\Desktop\CST 117\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Harmonic\Desktop\CST 117\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Harmonic\Desktop\CST 117\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Harmonic\Desktop\CST 117\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Harmonic\Desktop\CST 117\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
