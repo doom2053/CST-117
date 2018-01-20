@@ -1,0 +1,13 @@
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\bin\Debug\CellPhoneTest.dll
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\bin\Debug\CellPhoneTest.pdb
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\obj\Debug\CellPhoneTest.csprojResolveAssemblyReference.cache
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\obj\Debug\CellPhoneTest.csproj.CoreCompileInputs.cache
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\obj\Debug\CellPhoneTest.dll
+C:\Users\Harmonic\Desktop\CST 117\Inventory\CellPhoneTest\obj\Debug\CellPhoneTest.pdb
