@@ -1,0 +1,10 @@
+C:\Users\Harmonic\Desktop\CST 117\exercise8final\exercise8final\obj\Debug\exercise8final.csprojResolveAssemblyReference.cache
+C:\Users\Harmonic\Desktop\CST 117\exercise8final\exercise8final\obj\Debug\exercise8final.Exercise8.resources
+C:\Users\Harmonic\Desktop\CST 117\exercise8final\exercise8final\obj\Debug\exercise8final.Properties.Resources.resources
+C:\Users\Harmonic\Desktop\CST 117\exercise8final\exercise8final\obj\Debug\exercise8final.csproj.GenerateResource.Cache
+C:\Users\Harmonic\Desktop\CST 117\exercise8final\exercise8final\obj\Debug\exercise8final.csproj.CoreCompileInputs.cache
+C:\Users\Harmonic\Desktop\CST 117\exercise8final\exercise8final\bin\Debug\exercise8final.exe.config
+C:\Users\Harmonic\Desktop\CST 117\exercise8final\exercise8final\bin\Debug\exercise8final.exe
+C:\Users\Harmonic\Desktop\CST 117\exercise8final\exercise8final\bin\Debug\exercise8final.pdb
+C:\Users\Harmonic\Desktop\CST 117\exercise8final\exercise8final\obj\Debug\exercise8final.exe
+C:\Users\Harmonic\Desktop\CST 117\exercise8final\exercise8final\obj\Debug\exercise8final.pdb
