@@ -1,0 +1,7 @@
+C:\Users\Harmonic\Desktop\CST 117\exercise9final2\exercise9final2\bin\Debug\exercise9final2.exe.config
+C:\Users\Harmonic\Desktop\CST 117\exercise9final2\exercise9final2\bin\Debug\exercise9final2.exe
+C:\Users\Harmonic\Desktop\CST 117\exercise9final2\exercise9final2\bin\Debug\exercise9final2.pdb
+C:\Users\Harmonic\Desktop\CST 117\exercise9final2\exercise9final2\obj\Debug\exercise9final2.csprojResolveAssemblyReference.cache
+C:\Users\Harmonic\Desktop\CST 117\exercise9final2\exercise9final2\obj\Debug\exercise9final2.csproj.CoreCompileInputs.cache
+C:\Users\Harmonic\Desktop\CST 117\exercise9final2\exercise9final2\obj\Debug\exercise9final2.exe
+C:\Users\Harmonic\Desktop\CST 117\exercise9final2\exercise9final2\obj\Debug\exercise9final2.pdb
