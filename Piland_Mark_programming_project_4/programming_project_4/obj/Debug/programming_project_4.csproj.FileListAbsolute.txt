@@ -1,0 +1,10 @@
+C:\Users\Harmonic\Desktop\CST 117\programming_project_4\programming_project_4\bin\Debug\programming_project_4.exe.config
+C:\Users\Harmonic\Desktop\CST 117\programming_project_4\programming_project_4\bin\Debug\programming_project_4.exe
+C:\Users\Harmonic\Desktop\CST 117\programming_project_4\programming_project_4\bin\Debug\programming_project_4.pdb
+C:\Users\Harmonic\Desktop\CST 117\programming_project_4\programming_project_4\obj\Debug\programming_project_4.csprojResolveAssemblyReference.cache
+C:\Users\Harmonic\Desktop\CST 117\programming_project_4\programming_project_4\obj\Debug\programming_project_4.Form1.resources
+C:\Users\Harmonic\Desktop\CST 117\programming_project_4\programming_project_4\obj\Debug\programming_project_4.Properties.Resources.resources
+C:\Users\Harmonic\Desktop\CST 117\programming_project_4\programming_project_4\obj\Debug\programming_project_4.csproj.GenerateResource.Cache
+C:\Users\Harmonic\Desktop\CST 117\programming_project_4\programming_project_4\obj\Debug\programming_project_4.csproj.CoreCompileInputs.cache
+C:\Users\Harmonic\Desktop\CST 117\programming_project_4\programming_project_4\obj\Debug\programming_project_4.exe
+C:\Users\Harmonic\Desktop\CST 117\programming_project_4\programming_project_4\obj\Debug\programming_project_4.pdb
