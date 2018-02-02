@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BirdWatcher.BirdData">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIIkCwAAAAAgABAAAAAAAAAAAAAAIAAAAACAAAAAIg=</HashCode>
+      <FileName>BirdData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BirdWatcher.Form1">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JRCCgv0HAmAAMDAiBGGCgglCgAgAQICQoIIwAHEAAQQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BirdWatcher.Form2">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BirdWatcher.Form3">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="BirdWatcher.Form3.BirdNameUpdateHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form3.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBACAAABAgAACAAAACAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BirdWatcher.BirdNameUpdateEventArgs" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAIA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
