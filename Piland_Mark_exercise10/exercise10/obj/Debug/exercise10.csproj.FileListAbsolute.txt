@@ -1,0 +1,7 @@
+C:\Users\Harmonic\Desktop\CST 117\exercise10\exercise10\bin\Debug\exercise10.exe.config
+C:\Users\Harmonic\Desktop\CST 117\exercise10\exercise10\bin\Debug\exercise10.exe
+C:\Users\Harmonic\Desktop\CST 117\exercise10\exercise10\bin\Debug\exercise10.pdb
+C:\Users\Harmonic\Desktop\CST 117\exercise10\exercise10\obj\Debug\exercise10.csprojResolveAssemblyReference.cache
+C:\Users\Harmonic\Desktop\CST 117\exercise10\exercise10\obj\Debug\exercise10.csproj.CoreCompileInputs.cache
+C:\Users\Harmonic\Desktop\CST 117\exercise10\exercise10\obj\Debug\exercise10.exe
+C:\Users\Harmonic\Desktop\CST 117\exercise10\exercise10\obj\Debug\exercise10.pdb
